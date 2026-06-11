@@ -25,7 +25,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
     "https://app.sublink.works/x/ZrVEXNV",
     "https://gcore.jsdelivr.net/gh/aews/jd2/v20528.txt",
-    "https://mm.mibei77.com/202606/06.0564bacrt.txt",
+    "https://freev2ray.top/V2rayN061456NO.txt",
     "https://mm.mibei77.com/202606/06.0664bacrt.txt",
     "https://mm.mibei77.com/202606/06.0764bacrt.txt",
     "https://mm.mibei77.com/202606/06.0864bacrt.txt",
